@@ -1,7 +1,5 @@
-![Alt text](Title.png "NucDeck")
-
-# NucDeck
-The Open Source DIY Handheld Gaming PC!
+# PiDeck
+An Open Source Raspberry Pi Handheld PC!
 
 Refer to "NucDeck Assembly Instructions.PDF" for mechanical assembly details. Information for the electronics will be added once the controller PCB's are complete.
 
