@@ -1,31 +1,6 @@
 # PiDeck
 An Open Source Raspberry Pi Handheld PC!
 
-# Parts list
-- A raspberry pi 5
-
-# How to assemble
-Refer to "PiDeck_Assembly.PDF" for assembly instructions! 🛠️
-
-#### Project Status
-- [x] 3D Files
-- [x] Software: V1.0 ready for testing. Motion controls not yet implemented
-- [x] PCBs: Complete
-
-Watch the series on Youtube as I design, build and test parts of this project:
-- [Episode 1](https://youtu.be/xVYYCx3Qt4Y)
-- [Episode 2](https://youtu.be/nOXd3axX4fw)
-- [Episode 3](https://youtu.be/yHMnScoKIOE)
-- [Episode 4](https://youtu.be/rP_sMztufNs)
-- [Episode 5](https://youtu.be/sQocfy4pwIQ)
-- [Bonus Episode - Battery Life Testing](https://youtu.be/6FQKwnMxRxI)
-- [Episode 6](https://youtu.be/mfuAvgmuT2s)
-- [Episode 7](https://youtu.be/nFNw7_WkteA)
-- [Episode 8](https://youtu.be/YYRD0Zlga5s)
-- [Episode 9](https://youtu.be/t9Rao_BeIeM)
-
-I've found links for all of the parts on Aliexpress since its probably the cheapest option and will ship worldwide.
-
 ## Parts List
 
 #### Display
@@ -117,3 +92,6 @@ Here's a list of the screws required for assembly. This list is also in the asse
 
 #### 4s Cell Balancer
 https://www.aliexpress.com/item/1005005827876691.html
+
+# How to assemble
+Refer to "PiDeck_Assembly.PDF" for assembly instructions! 🛠️
