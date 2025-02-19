@@ -15,3 +15,6 @@ https://www.amazon.co.uk/fire-hd-8/dp/B09JRRTNVP/ref=mp_s_a_1_2?crid=1ETZGQ2V2VE
 I used a raspberry pi 5for this project. While I did not use this exact kit, I would recommend it for this project:
 https://www.amazon.co.uk/iRasptek-Raspberry-8GB-Starter-Pre-installed/dp/B0D1D6RFNG/ref=mp_s_a_1_4?crid=LR19ZIPHDLOC&dib=eyJ2IjoiMSJ9.FjwMamt6biMIgU5rbxqVpJ3pb3d9ztDcqNwu8lMduwuc0TNmQnpsM9VqzzZ0-Vhr1GPEsa9p3gkPzKx1qv8eMX-DZi_Iwul8hMO6IlqCPY-F-4iDw_AHeHyzGBwB7xVZeTdiNtJpdFw7kOz-hyyWg7gD5Y8LJuou5wQr1qEypYQ4BXMwPvVRlGqFVTJeY_u4jwnNBMa36jNkk1Cp8AKvuA.pcQZut1nghSY8tmaGFhGbF2B3J2qCaXfpqJ9_ukW0do&dib_tag=se&keywords=raspberry+pi+5&qid=1739958412&sprefix=raspberry+pi+5%2Caps%2C137&sr=8-4
 
+#### Double-Sided mounting tape 
+This was a key part of this project
+
