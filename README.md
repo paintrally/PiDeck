@@ -1,26 +1,11 @@
 # PiDeck
 An Open Source Raspberry Pi Handheld PC!
 
-Refer to "NucDeck Assembly Instructions.PDF" for mechanical assembly details. Information for the electronics will be added once the controller PCB's are complete.
+# Parts list
+- A raspberry pi 5
 
-There are two different versions of the housing, Standard and NoRGB. The NoRGB version has had
-the RGB joystick surrounds removed to simplify printing. If you choose the NoRGB version you can leave all of the 
-associated components off the PCB's to save on cost.
-
-There are two different versions of the buttons, membrane and clicky. The Membrane buttons are shorter and are
-designed to be used with silicone membranes. I've included files for molds to make the membranes. If you have a resin printer
-I encourage you to give this a try as it improves the feel of the buttons dramatically. FDM printers will struggle to produce the accuracy required to make these parts. The clicky version is slightly taller and can be used without the membranes.
-
-Total Cost of parts approximately: $311 USD
-
-This is based on PCBway's pricing for the PCB's and is not including a NUC or any shipping charges. I've probably missed counting something so I would budget for a little more!
-
-Here's a breakdown of the costs:
-- Digikey parts: $55 USD
-- PCB's (Set of 5 due to MOQ): $204 USD
-- Aliexpress Parts: $52 USD
-
-If you can organise a group of 5 people who want a set of PCB's, you will greatly reduce your total cost to build.
+# How to assemble
+Refer to "PiDeck_Assembly.PDF" for assembly instructions! 🛠️
 
 #### Project Status
 - [x] 3D Files
